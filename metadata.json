@@ -1,0 +1,6 @@
+{
+  "name": "EcoAI: Energy & Carbon Prediction",
+  "description": "AI-Powered Energy Consumption and Carbon Footprint Prediction System helping households track electricity, estimate emissions, forecast usage, and take action with an AI sustainability coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
